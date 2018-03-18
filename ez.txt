@@ -1,0 +1,108 @@
+﻿
+
+
+
+
+
+1. fejezet
+Üdv a mátrixban!
+
+
+Cselekmény:
+Player otthon kezd. Az anyja elküldi a kamrába lisztért. A kamrából Sasszem elrabolja. Az ő titkos bázisukon kezd ahonnan beküldik a játékba. Intro. A fegyverboltban kezdünk. Találkozunk Colossal. Elmegyünk kocsmázni. Kocsmai verekedésben találkozunk a Királlyal. Meghív a kastélyba bulizni. A kastélyban az anyós börtönbe zárat, mivel összesároztuk a 
+szőnyeget, és leittuk a terítőt. A börtönből kiszökünk, a királlyal együtt leg kiyőzzük az anyós nindzsaharcosait, és menekülni kezdünk, a király marad
+
+
+
+Szökés: 3 fő út
+1. Alagút
+A cellatársunk egy sörért mutat egy titkos alagutat amin keresztül megszökhetünk a börtönből. Az alagút a kastélyba vezet ahonnan az éjjeli őröket legyőzve kijuzhatunk. A kastélyban több helyen találhatunk rejtett tárgyakat, pozitív és későbbi karaktereknek fegyókat
+2. csatorna
+A másik cellatársunktól megvehetjük a cellakulcsot, vagy legyőzhetjük és megkapjuk. Kiszabadulva a csatornába lemászva kijuzhatunk a várból. Több ellenfél van és így több szintet kapunk
+3. kitörés
+Reggel jön egy őr értünk akit legyőzve kitörhetünk. Sok őrt le kell győzni, de sok pénzt adnak
+4. semmi
+ha nem támadják meg az őrt akkor élvezet a királyhoz, és ad egy erős fegyvert
+
+csatâk
+
+1.
+helyszín: kocsma
+csapat: Player, Colos, Király beáll
+ellenség: részeg x 6
+lvl.: 1
+xp: 1L
+hossz:  ~4 kör
+
+2. Opcionális
+helyszín: várbörtön
+csapat: Player
+ellenség: cellatárs
+lvl: 2
+tárgy: sörösüveg x 1/3, cellakulcs, sör
+xp:1L
+hossz: ~4 kör
+
+3-6.a Választható
+helyszín: várbörtön csatorna
+csapat: Player,Colos
+ellenség: patkány x 2
+lvl: 2
+xp: 1/3 L
+hossz: ~3 kör
+
+7.a MINIBOSS
+helyszín: várbörtön csatorna
+csapat: Player, Colos
+ellenség: krokodil
+lvl: 3
+xp: 1L
+hossz: ~min. 8-10 kör
+
+3.b
+helyszín: várbörtön cella
+csapat: Player
+ellenség: őr x 2
+lvl: 2
+xp: 1/2L
+hossz: ~6 kör
+
+4-6.b
+helyszín: várbörtön
+csapat: Player, Colos
+ellenség: őr x 3
+lvl: 2
+xp: 1/3L
+hossz: ~4 kör
+
+7.bc MINIBOSS
+helyszín: várbörtön/várkapu
+csapat: Player, Colos
+ellenség: őr főnök, őr x 3
+lvl: 3
+xp: 1,5L
+hossz: ~min. 8-10 kör
+
+3-6.c - inkább 7-8 csata
+helyszín: vár
+csapat: Player, Colos
+ellenség: őr/őr x 2
+lvl: 3-4
+xp: 1/6L / 1/4L
+hossz: 2/4 kör
+
+
+8. BOSS
+helyszín: várkert
+csapat: Player, Colos, Király
+ellenség: őr x 6, nindzsa harcos x 2
+lvl: 4
+xp: 1,5L
+tárgy: !TODO
+hossz: min. 15 kör
+
+
+2. fejezet
+Meg kell keresni (a Szent Grált) az Isteni.  Fogpiszkálót
+ 
+A király ad lovakat, és elküld, hogy az erdőn keresztül menekülünk és rejtőzzünk el a romos várban. Elmonja, hogy cserébe azt kéri, öljük meg az anyóst.  Az erdőben  és elfog a Remete. Amikor elmondjuk neki hogy a küldetésünk az anyós megölése, csatlakozik. Elmondja, hogy meg kell keresnünk az Isteni fogpiszkálót hogyha megölhessük az anyóst. Találkozunk a király feleségével, aki elmenekült amikor meghallotta hogy az anyja beköltözik a várba. Továbbhaladunk a romos vár felé. Itt tápolhatunk az erdőben, de nem kötelező. A romos várban utólér a király követe az üzenettel, hogy az anyós katonákat küldött a keresésünkre, és el kell hagynunk a szigetet. Három nindzsaharcost legyőzve egy titkos alagúton keresztül kijuthatunk a várból. Az erdő déli részén keresztül eljutunk a kikötővárosba és hajóra szállunk.
